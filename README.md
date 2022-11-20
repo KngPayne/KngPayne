@@ -1,4 +1,4 @@
-- Hi, I’m @KngPayne
+- Hi, I’m Ivan Payne
 - I’m interested in databases, cloud services, and data analytics 
 - I’m currently learning about different forms of databases, cloud services, and data security.
 - Reach me through my email at ivanpayne859@gmail.com
